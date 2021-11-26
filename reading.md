@@ -3,3 +3,5 @@
   
 - 深度工作
   https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/
+
+- 幸福的方法 https://www.youduzw.com/14/5389/283249_2.html
