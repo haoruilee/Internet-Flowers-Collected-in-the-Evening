@@ -9,3 +9,6 @@
 
 - Most viewed and edited Wikipedia articles by year, 2001 – 2020
 https://wikimediafoundation.org/zh/wikipedia20/data/
+
+- 职业选择：经历和眼界
+https://coolshell.cn/articles/6142.html
