@@ -1,3 +1,4 @@
 - 画神经网络：http://alexlenail.me/NN-SVG/LeNet.html
 - 画神经网络2 https://github.com/dair-ai/ml-visuals
 - 查看在历史上自己写过什么类型的文件 http://lomont.org/posts/2019/lines-of-code/
+- 开源的联邦学习框架 https://www.fedai.org/
