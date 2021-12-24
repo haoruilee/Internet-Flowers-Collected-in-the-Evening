@@ -13,3 +13,5 @@ https://code.likeagirl.io/
 > 个人博客，在分享python相关技术的同时也会分享古文阅读、人生的系列思考
 - https://www.boqunwang.com/
 > 王博群的个人博客，前蚂蚁数据分析师，JHU经济学PhD，会偶尔分享一些文章
+- https://4ra1n.love/
+> 网安从业者的个人博客，经常写一些漏洞分析
