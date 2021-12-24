@@ -9,3 +9,7 @@ https://www.lomont.org/
 - code like a girl
 https://code.likeagirl.io/
 > 本站类似于女性STEM专业的小团体，包含大量心路历程和一些技术相关帖子，即使是美帝女性也面临大量的学习和就业歧视，从本站可以窥见一些人性的美好
+- https://aber.sh/
+> 个人博客，在分享python相关技术的同时也会分享古文阅读、人生的系列思考
+- https://www.boqunwang.com/
+> 王博群的个人博客，前蚂蚁数据分析师，JHU经济学PhD，会偶尔分享一些文章
