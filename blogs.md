@@ -17,3 +17,5 @@ https://code.likeagirl.io/
 > 网安从业者的个人博客，经常写一些漏洞分析
 - https://litterhougelangley.life/blog/
 > 儿科医生，开源贡献者（个人非常羡慕的“无限精力”者）
+- https://kagamiz.com/category/works/
+> 电子科大 -> NUS -> 元戎启行-云开发，博客已停更
