@@ -15,3 +15,5 @@ https://code.likeagirl.io/
 > 王博群的个人博客，前蚂蚁数据分析师，JHU经济学PhD，会偶尔分享一些文章
 - https://4ra1n.love/
 > 网安从业者的个人博客，经常写一些漏洞分析
+- https://litterhougelangley.life/blog/
+> 儿科医生，开源贡献者（个人非常羡慕的“无限精力”者）
