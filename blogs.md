@@ -19,3 +19,5 @@ https://code.likeagirl.io/
 > 儿科医生，开源贡献者（个人非常羡慕的“无限精力”者）
 - https://kagamiz.com/category/works/
 > 电子科大 -> NUS -> 元戎启行-云开发，博客已停更
+- https://erikbern.com/
+> 数据分析创业者的博客
