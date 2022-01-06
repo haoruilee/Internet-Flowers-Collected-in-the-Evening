@@ -21,3 +21,5 @@ https://code.likeagirl.io/
 > 电子科大 -> NUS -> 元戎启行-云开发，博客已停更
 - https://erikbern.com/
 > 数据分析创业者的博客
+- https://atr.me/
+> 非常有趣的个人博客前端，使用命令行进行交互
