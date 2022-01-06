@@ -23,3 +23,5 @@ https://code.likeagirl.io/
 > 数据分析创业者的博客
 - https://atr.me/
 > 非常有趣的个人博客前端，使用命令行进行交互
+- https://chromakode.com/
+> xkcd开发者的个人博客，讨论一些非常有趣的交互设计
