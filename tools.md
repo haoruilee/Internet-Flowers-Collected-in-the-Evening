@@ -8,3 +8,5 @@
 > JS的Canvas相当于X Window，搞定驱动就能做出来
 - https://postmarketos.org/
 > mobile OS that is modeled after traditional Linux distributions
+- https://github.com/unlock-music/unlock-music
+> Q音的加密破解算法
