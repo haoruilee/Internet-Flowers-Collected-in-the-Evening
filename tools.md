@@ -10,3 +10,5 @@
 > mobile OS that is modeled after traditional Linux distributions
 - https://github.com/unlock-music/unlock-music
 > Q音的加密破解算法
+-  https://www.v2ex.com/t/368083#reply75 你们仍未掌握那天所学的 git 知识
+> git提交历史优化
