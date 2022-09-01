@@ -12,3 +12,12 @@
 > Q音的加密破解算法
 -  https://www.v2ex.com/t/368083#reply75 你们仍未掌握那天所学的 git 知识
 > git提交历史优化
+- 在py26,py27下使用pip20:
+```
+$ python -V
+Python 2.7.5
+$ curl -fsSL -O https://bootstrap.pypa.io/pip/2.7/get-pip.py
+$ python get-pip.py --no-python-version-warning && rm -f get-pip.py
+$ python -m pip --version
+pip 20.3.4 from /usr/lib/python2.7/site-packages/pip (python 2.7)
+```
