@@ -25,3 +25,5 @@ https://code.likeagirl.io/
 > 非常有趣的个人博客前端，使用命令行进行交互
 - https://chromakode.com/
 > xkcd开发者的个人博客，讨论一些非常有趣的交互设计
+- https://jdhao.github.io/about/
+> GitHub: https://github.com/jdhao 的个人博客， AI Engineer
