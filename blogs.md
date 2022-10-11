@@ -27,3 +27,5 @@ https://code.likeagirl.io/
 > xkcd开发者的个人博客，讨论一些非常有趣的交互设计
 - https://jdhao.github.io/about/
 > GitHub: https://github.com/jdhao 的个人博客， AI Engineer
+- http://www.unknownroad.com/rtfm/gdbtut/gdbtoc.html
+> GDB使用与学习笔记
