@@ -29,3 +29,5 @@ https://code.likeagirl.io/
 > GitHub: https://github.com/jdhao 的个人博客， AI Engineer
 - http://www.unknownroad.com/rtfm/gdbtut/gdbtoc.html
 > GDB使用与学习笔记
+- https://romejiang.top/
+> 研究的东西都很对胃口，网络、ai、奇技淫巧
