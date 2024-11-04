@@ -1,3 +1,6 @@
+- https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/   如何申请Ph.D. 原来千万不能找工作。。。。
+
+
 - https://greattransitionstories.org/  变革故事
 
 
