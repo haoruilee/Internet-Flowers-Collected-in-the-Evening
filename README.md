@@ -10,8 +10,14 @@
 
 每次update写上简要的思考和评论
 
+
+
 ![image](https://user-images.githubusercontent.com/60883781/185076272-0eaf2eb3-ab7a-4c4d-bed5-e6ab788a20cb.png)
 
 # 2024.08.01 
 
 ~忽然发现几乎所有笔记都在`Notion`上做了... ...~
+
+# 2024.12.05 update policy
+
+> 多读几遍是读任何好书的诀窍。
